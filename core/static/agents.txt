@@ -1,6 +1,6 @@
 # Identified via @curi0usJack
-^.*Censys*.$
-^.*Shodan*.$
+^.*Censys.*$
+^.*Shodan.*$
 ^.*linux.*$
 ^.*cloudfront.*$
 ^curl.*$
