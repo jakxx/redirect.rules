@@ -1,5 +1,6 @@
 # Identified via @curi0usJack
 ^.*Censys*.$
+^.*Shodan*.$
 ^.*linux.*$
 ^.*cloudfront.*$
 ^curl.*$
