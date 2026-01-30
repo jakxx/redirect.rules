@@ -1,6 +1,11 @@
 # Identified via @curi0usJack
 ^.*Censys.*$
 ^.*Shodan.*$
+^.*Cortex.*$
+^.*Avast.*$
+^.*checkmark.*$
+^.*scan.*$
+^.*redtail.*$
 ^.*linux.*$
 ^.*cloudfront.*$
 ^curl.*$
