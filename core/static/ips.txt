@@ -678,6 +678,9 @@
 193.138.6.0/23
 194.127.199.0/24
 
+#Cortex/PaloAlto scanner
+198.235.24.0/24
+
 # BELOW: IP wildcards that were modified
 # to CIDRs and added to the above list
 # 104.236.*
