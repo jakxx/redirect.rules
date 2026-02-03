@@ -9,6 +9,7 @@
 ^.*linux.*$
 ^.*cloudfront.*$
 ^.*openai.*$
+^.*PetalBot.*$
 ^curl.*$
 ^.*ython.*$
 ^Wget.*$
