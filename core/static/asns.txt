@@ -73,6 +73,7 @@ DigitalOcean_AS14061
 ForcePoint_AS13448
 Google-GCP_AS396982
 Google-LLC_AS15169
+TENECENT_ASIA_AS132203
 
 # Adds upwards of 30k
 # FORTIGATE_AS577
